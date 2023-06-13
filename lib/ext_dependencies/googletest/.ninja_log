@@ -1,0 +1,21 @@
+# ninja log v5
+1	115	6983741759423318	googletest-prefix/src/googletest-stamp/googletest-mkdir	25fd67442153b458
+1	115	6983741759423318	C:/Users/hibah/homeworks/assignment-3/lib/ext_dependencies/googletest/googletest-prefix/src/googletest-stamp/googletest-mkdir	25fd67442153b458
+116	6318	6983741821434393	googletest-prefix/src/googletest-stamp/googletest-download	82aeca318a1b086d
+116	6318	6983741821434393	C:/Users/hibah/homeworks/assignment-3/lib/ext_dependencies/googletest/googletest-prefix/src/googletest-stamp/googletest-download	82aeca318a1b086d
+6319	6587	0	googletest-prefix/src/googletest-stamp/googletest-update	391b82d06cdea3ef
+6319	6587	0	C:/Users/hibah/homeworks/assignment-3/lib/ext_dependencies/googletest/googletest-prefix/src/googletest-stamp/googletest-update	391b82d06cdea3ef
+6588	6667	6983741824953974	googletest-prefix/src/googletest-stamp/googletest-patch	bac40bffe969d832
+6588	6667	6983741824953974	C:/Users/hibah/homeworks/assignment-3/lib/ext_dependencies/googletest/googletest-prefix/src/googletest-stamp/googletest-patch	bac40bffe969d832
+6668	6747	6983741825747765	googletest-prefix/src/googletest-stamp/googletest-configure	59fad0b4779807d
+6668	6747	6983741825747765	C:/Users/hibah/homeworks/assignment-3/lib/ext_dependencies/googletest/googletest-prefix/src/googletest-stamp/googletest-configure	59fad0b4779807d
+6747	6835	6983741826596127	googletest-prefix/src/googletest-stamp/googletest-build	924776cae4963023
+6747	6835	6983741826596127	C:/Users/hibah/homeworks/assignment-3/lib/ext_dependencies/googletest/googletest-prefix/src/googletest-stamp/googletest-build	924776cae4963023
+6835	6926	6983741827537108	googletest-prefix/src/googletest-stamp/googletest-install	43af37d4c0c4f185
+6835	6926	6983741827537108	C:/Users/hibah/homeworks/assignment-3/lib/ext_dependencies/googletest/googletest-prefix/src/googletest-stamp/googletest-install	43af37d4c0c4f185
+6927	7008	6983741828361834	googletest-prefix/src/googletest-stamp/googletest-test	cc64355bf35748b6
+6927	7008	6983741828361834	C:/Users/hibah/homeworks/assignment-3/lib/ext_dependencies/googletest/googletest-prefix/src/googletest-stamp/googletest-test	cc64355bf35748b6
+7008	7123	6983741829509572	CMakeFiles/googletest-complete	61c3c11c2e25d2c0
+7008	7123	6983741829509572	googletest-prefix/src/googletest-stamp/googletest-done	61c3c11c2e25d2c0
+7008	7123	6983741829509572	C:/Users/hibah/homeworks/assignment-3/lib/ext_dependencies/googletest/CMakeFiles/googletest-complete	61c3c11c2e25d2c0
+7008	7123	6983741829509572	C:/Users/hibah/homeworks/assignment-3/lib/ext_dependencies/googletest/googletest-prefix/src/googletest-stamp/googletest-done	61c3c11c2e25d2c0
